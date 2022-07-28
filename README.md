@@ -1,7 +1,7 @@
 # Point-in-Polygon-App
 Link to Report: <button> https://github.com/pratibha1708/Point-in-Polygon-App/blob/main/Report_PiP.pdf
   
-  <a href="#" class="button"> Link to Report (https://github.com/pratibha1708/Point-in-Polygon-App/blob/main/Report_PiP.pdf)</a>
+  <a href="https://github.com/pratibha1708/Point-in-Polygon-App/blob/main/Report_PiP.pdf" class="button"> Link to Report </a>
 
 ## The software works as follows: 
 
